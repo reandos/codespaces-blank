@@ -9,6 +9,7 @@ void meineFunktion() {
     printf("Wert von b: %d\n", b);  // gibt immer 10 aus
 }
 
+
 int main() {
     printf("Erster Aufruf:\n");
     meineFunktion();   // Variablen a und b werden erstellt und nach Ende wieder gelöscht
